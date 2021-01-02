@@ -4,7 +4,7 @@ SOCKY by RIKI FAMELI
 SOCKY is a simple arcade-style game in which you control a sock-puppet-man named Socky.
 
 
-STARTING THE GAME  
+__STARTING THE GAME__  
 The aim of the game is to score as many points within 30 seconds by eating pieces of trash that appear on screen.
 Each piece of trash has a unique point value and a different chance of spawning.
 
@@ -13,7 +13,7 @@ Pressing tab will show the instructions for the game and the point values for ea
 Pressing enter will start or restart the game.
 
 
-GAMEPLAY  
+__GAMEPLAY__  
 When the game begins, a timer in the top right will keep track of how many seconds you have left in seconds (counting down from 30).
 Your score will be displayed in the top left.
 
@@ -27,12 +27,12 @@ Once an item is eaten, the score will increase by that item's set value and it w
 At the end of the 30 seconds, a game over screen will appear with the player's score that round. Pressing enter will restart the game.
 
 
-PROGRAMMING  
+__PROGRAMMING__  
 SOCKY was programmed in Python using the Pygame library.
 I used the Pycharm IDE to code the game.
 
 
-ASSETS AND GRAPHICS
+__ASSETS AND GRAPHICS__  
 The original sock puppet image was an asset retrieved from www.spriters-resource.com and created by Baldis
 Socky as he appears in the game was created by using Photoshop to make a sock-man-thing(?) using those sock puppets.
 Eating noises were retrieved from Freesound.org
@@ -40,12 +40,12 @@ Music was retrieved from bensound.com
 Start screen, instructions screen, and end screen were all created by me using Adobe Photoshop.
 
 
-VIDEO  
+__VIDEO__  
 Watch the video at this URL:  
 https://www.youtube.com/watch?v=m_A-NsSatsA
 
 
-ADDITIONAL NOTES  
+__ADDITIONAL NOTES__
 - Socky was not the original idea I had for my project. I used some sprites and images I had downloaded to follow a tutorial and just kept building on it.
 - Tutorial I used can be seen here: https://www.youtube.com/watch?v=FfWpgLFMI7w
 - Originally planned to use Unity, but switched to Pygame for a greater focus on the coding and to practice using Python
